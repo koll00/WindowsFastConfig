@@ -1,2 +1,5 @@
 # WindowsFastConfig
-fast cmd command shell bat
+desc:fast cmd command shell bat
+
+
+set environment variable: setx VAR PATH
