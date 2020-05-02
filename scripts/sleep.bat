@@ -1,2 +1,0 @@
-@echo sleep
-shutdown -h
